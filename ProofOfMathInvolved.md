@@ -1,1 +1,0 @@
-### 1. Normal Equation Formula (week 2)
