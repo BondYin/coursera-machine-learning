@@ -2,7 +2,7 @@
 
 Repo for coursera course, Machine Learning by Andrew Ng
 
-### Proof of the formula/theorems involved
+### Proof of the formulas/theorems involved
 
 ### Todo
 
