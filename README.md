@@ -4,9 +4,9 @@ Repo for coursera course, Machine Learning by Andrew Ng
 
 ### Proof of the formulas/theorems involved
 
-- #### Proof of the normal equation formula
+- **Proof of the normal equation formula**
 
-- #### Derivation of gradient descent for logistic regression
+- **Derivation of gradient descent for logistic regression**
 
 ### Todo
 
