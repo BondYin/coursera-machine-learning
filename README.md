@@ -4,11 +4,11 @@ Repo for coursera course, Machine Learning by Andrew Ng
 
 ### Proof of the formulas/theorems involved
 
-- **Proof of the normal equation formula**
+- [**Proof of the normal equation formula**](https://github.com/MaxPoon/coursera-machine-learning/blob/master/Proof-of-the-normal-equation-formula.jpg)
 
-- **Derivation of gradient descent for logistic regression**
+- [**Derivation of gradient descent for logistic regression**](https://github.com/MaxPoon/coursera-machine-learning/blob/master/Derivation-of-gradient-descent-for-logistic-regression.jpg)
 
-- **Derivation of gradient descent for backpropagation**
+- [**Derivation of gradient descent for backpropagation**](https://github.com/MaxPoon/coursera-machine-learning/blob/master/Derivation-of-gradient-descent-for-backpropagation.jpg)
 
 ### Todo
 
